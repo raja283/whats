@@ -3,3 +3,4 @@
 3.add friends
 4.find friends
 5.CREATE GROUP
+6.adding members
