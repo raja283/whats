@@ -4,3 +4,4 @@
 4.find friends
 5.CREATE GROUP
 6.adding members
+7.set limit to 256 members
